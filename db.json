@@ -1,0 +1,36 @@
+{
+  "buku": [
+    {
+      "id": 2,
+      "name": "Anak Durhaka",
+      "tahunTerbit": "2014",
+      "penulis": "Beni Gunawan"
+    },
+    {
+      "id": 4,
+      "name": "Matahari dari Timur",
+      "tahunTerbit": "2020",
+      "penulis": "Beta Gutawa"
+    },
+    {
+      "id": 5,
+      "name": "Java for Expert",
+      "tahunTerbit": "2017",
+      "penulis": "Wulan ismadi"
+    }
+  ],
+  "karyawan": [
+    {
+      "id": 1,
+      "name": "Afvanie Rama Ardyansah",
+      "email": "ardyansah203@gmail.com",
+      "phone": "082140551075"
+    },
+    {
+      "id": 2,
+      "name": "Ridho Triadilaksono",
+      "email": "ridho1@gmail.com",
+      "phone": "081252204371"
+    }
+  ]
+}
